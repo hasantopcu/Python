@@ -107,16 +107,16 @@ cities = {
     }
 
 
-def addSalesPerson():
+def addCustomer():
   mycursor = mydb.cursor()
   for i in range(lr,ur):
     name = names[random.randint(0,size)]
     surname = Surnames[random.randint(0,size)]
-    store_name = "Store" + str(random.choice(list(cities)))
-    geoId = random.choice(list(cities))
-    store_id = int(str(geoId)+str(random.randint(0,10000)))
-    query = "insert into dbo.SalespersonInfo (SalespersonID , SalespersonName , SalespersonSurname , StoreName , StoreID , StoreGeographyID ) values(? , ? , ? , ? , ? , ?)"
-    values = (random.randint(0,10000) , name , surname , store_name , store_id , geoId)
+    email = name.lower() + surname.lower() + "@gmail.com"
+    email = email.replace(" ","_")
+    geoId = random.choice(list(iller))
+    query = "insert into dbo.CustomerInfo (CustomerID , CustomerName ,CustomerSurname , CustomerEmail , CustomerPhone , CustomerGeographyID ) values(? , ? , ? , ? , ? , ?)"
+    values = (random.randint(0,10000) , name , surname , email , random.randint(0,1000000) , geoId)
     mycursor.execute(query , values)
     mydb.commit()
 
@@ -134,7 +134,7 @@ def getCity():
 
 if __name__ == "__main__":
     getCity()
-    #addSalesPerson()
+    #addCustomer()
 
 
 
