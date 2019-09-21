@@ -1,0 +1,348 @@
+ProductName,ProductCategoryName,CalendarYear,CalendarQuarter,MonthName,DayName,Quantity,SalesAmount,Cost,StoreGeographyID,City,CityCode
+Monster Joystick,Joystick,2006,3,October,Thursday,32,150.00,57.00,4,AYDIN,9
+Lenovo Adapter,Adapter,2001,3,November,Wednesday,87,847.00,838.00,59,HATAY,31
+Canon PM,Photograph Machine,2011,3,November,Friday,58,480.00,409.00,64,KAYSERİ,38
+Samsung External  HD,External HD,2000,3,August,Thursday,22,377.00,324.00,57,ANTALYA,7
+Snopy Speaker,Speaker,2014,2,July,Friday,51,781.00,718.00,28,KAYSERİ,38
+Xiaomi Power Bank,Power Bank,2003,3,November,Thursday,22,484.00,387.00,2,AFYONKARAHİSAR,3
+Razer Blackwidow Ultimate 2014,Keyboard,2009,4,December,Thursday,12,164.00,76.00,42,KIRŞEHİR,40
+Xiaomi Power Bank,Power Bank,2008,3,August,Monday,20,798.00,785.00,36,MUĞLA,48
+Samsung Tablet,Tablet,2007,3,November,Friday,37,478.00,416.00,49,EDİRNE,22
+LG Ultra HD Television,Television,2018,3,November,Tuesday,76,483.00,438.00,52,KARS,36
+Razer Blackwidow Ultimate 2014,Keyboard,2004,3,August,Thursday,7,337.00,278.00,54,DÜZCE,81
+Sony Playstation,Playstation,2002,3,November,Sunday,53,596.00,577.00,30,BİLECİKK,11
+Google VR,VR Eyewear,2009,2,July,Thursday,23,474.00,380.00,39,KONYA,42
+Sony Playstation,Playstation,2010,2,May,Saturday,43,103.00,46.00,62,ŞIRNAK,73
+Razer Blackwidow Ultimate 2014,Keyboard,2002,1,February,Thursday,2,956.00,893.00,56,IĞDIR,76
+Razer Blackwidow Ultimate 2014,Keyboard,2015,4,December,Sunday,58,778.00,742.00,27,GÜMÜŞHANE,29
+Apple Health Watch,Health Watch,2016,2,July,Sunday,6,444.00,369.00,18,ADIYAMAN,2
+Lenovo Adapter,Adapter,2006,1,March,Wednesday,96,325.00,316.00,13,ORDU,52
+Logitech,Mouse,2001,2,June,Saturday,92,407.00,406.00,42,KARAMAN,70
+Samsung Tablet,Tablet,2010,2,May,Thursday,2,756.00,669.00,54,ÇORUM,19
+Lenovo Adapter,Adapter,2014,3,November,Friday,37,369.00,307.00,4,AFYONKARAHİSAR,3
+LG Ultra HD Television,Television,2005,1,March,Saturday,3,824.00,799.00,31,NİĞDE,51
+Snopy Speaker,Speaker,2018,3,October,Wednesday,4,259.00,195.00,3,MUĞLA,48
+Mac Book Pro,Laptop,2018,3,November,Friday,83,800.00,758.00,37,DÜZCE,81
+Mac Book Pro,Laptop,2003,4,December,Friday,64,346.00,254.00,10,YALOVA,77
+Sony Eyewear,Ear wear,2015,1,March,Thursday,44,701.00,699.00,64,GÜMÜŞHANE,29
+Lenovo Adapter,Adapter,2016,2,May,Wednesday,81,772.00,732.00,42,KOCAELİ,41
+LG Ultra HD Television,Television,2006,3,November,Saturday,82,674.00,616.00,40,DÜZCE,81
+Apple Health Watch,Health Watch,2017,3,October,Friday,25,550.00,488.00,36,ÇANKIRI,18
+LG Ultra HD Television,Television,2017,3,September,Wednesday,11,1003.00,983.00,77,YOZGAT,66
+Mac Book Pro,Laptop,2014,2,July,Friday,87,675.00,651.00,60,YOZGAT,66
+IPhone X,Smart Phone,2012,2,May,Saturday,72,838.00,744.00,50,KAYSERİ,38
+LG Ultra HD Television,Television,2013,2,May,Thursday,59,898.00,835.00,62,KIRŞEHİR,40
+Apple Health Watch,Health Watch,2017,2,July,Tuesday,24,395.00,382.00,77,ESKİŞEHİR,26
+Razer Blackwidow Ultimate 2014,Keyboard,2002,3,September,Wednesday,77,305.00,274.00,58,TEKİRDAĞ,59
+Canon PM,Photograph Machine,2005,3,September,Thursday,16,1029.00,932.00,58,MUŞ,49
+Monster Joystick,Joystick,2001,1,March,Saturday,73,280.00,232.00,22,KARAMAN,70
+LG Ultra HD Television,Television,2013,3,October,Wednesday,47,704.00,655.00,64,GÜMÜŞHANE,29
+Monster Joystick,Joystick,2003,3,October,Friday,25,419.00,325.00,67,HATAY,31
+Monster Joystick,Joystick,2010,2,April,Tuesday,87,87.00,32.00,2,OSMANİYE,80
+Sony Playstation,Playstation,2015,3,August,Sunday,44,93.00,43.00,54,ŞANLIURFA,63
+Razer Blackwidow Ultimate 2014,Keyboard,2014,3,November,Saturday,33,1031.00,988.00,6,BOLU,14
+Google VR,VR Eyewear,2008,1,January,Thursday,42,463.00,428.00,63,BİNGÖL,12
+Samsung External  HD,External HD,2013,1,January,Friday,50,877.00,868.00,76,ŞANLIURFA,63
+Snopy Speaker,Speaker,2018,2,July,Tuesday,5,73.00,51.00,15,KOCAELİ,41
+Canon PM,Photograph Machine,2009,3,October,Monday,56,640.00,573.00,64,MUĞLA,48
+Google VR,VR Eyewear,2011,2,April,Saturday,1,705.00,662.00,35,ADANA,1
+LG Ultra HD Television,Television,2001,4,December,Wednesday,47,973.00,933.00,59,ELAZIĞ,23
+Xiaomi Power Bank,Power Bank,2004,1,January,Monday,18,339.00,260.00,8,BATMAN,72
+Apple Health Watch,Health Watch,2002,3,October,Wednesday,76,133.00,77.00,51,BAYBURT,69
+Sony Eyewear,Ear wear,2006,1,February,Sunday,46,102.00,71.00,40,ADANA,1
+Samsung External  HD,External HD,2002,2,June,Monday,14,386.00,287.00,38,UŞAK,64
+Xiaomi Power Bank,Power Bank,2010,3,October,Monday,73,526.00,428.00,48,ANTALYA,7
+Sony Playstation,Playstation,2004,4,December,Friday,99,200.00,172.00,73,ADANA,1
+Xiaomi Power Bank,Power Bank,2008,3,October,Wednesday,80,943.00,930.00,68,AFYONKARAHİSAR,3
+Razer Blackwidow Ultimate 2014,Keyboard,2009,1,March,Tuesday,54,730.00,656.00,20,ARTVİN,8
+Monster Joystick,Joystick,2004,2,May,Tuesday,42,913.00,879.00,57,ISPARTA,32
+Sony Eyewear,Ear wear,2004,3,October,Friday,47,542.00,448.00,34,GİRESUN,28
+Xiaomi Power Bank,Power Bank,2017,3,October,Tuesday,82,440.00,412.00,53,ISPARTA,32
+Snopy Speaker,Speaker,2009,1,January,Monday,4,376.00,372.00,36,KOCAELİ,41
+Sony Playstation,Playstation,2005,1,January,Wednesday,41,1012.00,927.00,77,KÜTAHYA,43
+Razer Blackwidow Ultimate 2014,Keyboard,2014,3,September,Saturday,67,573.00,538.00,71,ŞIRNAK,73
+IPhone X,Smart Phone,2005,2,July,Friday,40,646.00,613.00,37,DÜZCE,81
+Sony Playstation,Playstation,2012,1,March,Tuesday,95,680.00,665.00,2,KOCAELİ,41
+Sony Eyewear,Ear wear,2016,2,May,Wednesday,49,118.00,76.00,26,ARTVİN,8
+Samsung Tablet,Tablet,2012,2,April,Tuesday,73,299.00,248.00,16,HAKKARİ,30
+Sony Eyewear,Ear wear,2014,3,October,Wednesday,28,91.00,13.00,77,BOLU,14
+Snopy Speaker,Speaker,2005,3,November,Friday,96,175.00,120.00,67,ANTALYA,7
+Sony Eyewear,Ear wear,2012,2,July,Thursday,32,851.00,772.00,32,SİİRT,56
+Samsung External  HD,External HD,2000,3,October,Saturday,89,604.00,550.00,44,BİTLİS,13
+Mac Book Pro,Laptop,2006,2,May,Wednesday,74,835.00,794.00,1,KARS,36
+Razer Blackwidow Ultimate 2014,Keyboard,2009,3,September,Tuesday,18,1045.00,977.00,3,ADANA,1
+Mac Book Pro,Laptop,2009,1,January,Friday,1,598.00,569.00,46,SAMSUN,55
+LG Ultra HD Television,Television,2001,3,September,Saturday,89,113.00,40.00,21,AFYONKARAHİSAR,3
+Logitech,Mouse,2012,3,October,Wednesday,48,124.00,56.00,25,BURDUR,15
+Sony Eyewear,Ear wear,2012,4,December,Friday,93,283.00,188.00,79,VAN,65
+Canon PM,Photograph Machine,2014,2,July,Sunday,44,761.00,755.00,35,KONYA,42
+Canon PM,Photograph Machine,2008,3,October,Wednesday,35,428.00,342.00,46,HATAY,31
+Apple Health Watch,Health Watch,2016,3,November,Thursday,45,713.00,687.00,3,BAYBURT,69
+Samsung Tablet,Tablet,2016,2,May,Monday,96,638.00,540.00,45,GÜMÜŞHANE,29
+Xiaomi Power Bank,Power Bank,2009,4,December,Saturday,63,1043.00,960.00,34,DENİZLİ,20
+Apple Health Watch,Health Watch,2010,3,August,Tuesday,18,283.00,208.00,42,HATAY,31
+Mac Book Pro,Laptop,2018,2,July,Monday,96,454.00,427.00,33,KOCAELİ,41
+Samsung Tablet,Tablet,2017,3,August,Sunday,93,498.00,449.00,70,ISPARTA,32
+Razer Blackwidow Ultimate 2014,Keyboard,2006,3,October,Sunday,58,659.00,560.00,79,KOCAELİ,41
+Canon PM,Photograph Machine,2007,3,August,Thursday,1,707.00,661.00,37,DİYARBAKIR,21
+Mac Book Pro,Laptop,2015,3,November,Thursday,44,461.00,391.00,16,ERZURUM,25
+Snopy Speaker,Speaker,2003,3,October,Saturday,88,414.00,369.00,60,HATAY,31
+Snopy Speaker,Speaker,2012,2,June,Monday,41,422.00,364.00,30,ADANA,1
+Sony Playstation,Playstation,2001,1,March,Monday,39,939.00,842.00,13,GÜMÜŞHANE,29
+Mac Book Pro,Laptop,2003,2,May,Saturday,97,997.00,905.00,30,BİLECİKK,11
+LG Ultra HD Television,Television,2002,1,March,Thursday,86,754.00,692.00,70,NİĞDE,51
+Sony Eyewear,Ear wear,2007,1,January,Thursday,94,578.00,509.00,18,HATAY,31
+Mac Book Pro,Laptop,2015,2,April,Sunday,57,1045.00,968.00,46,AFYONKARAHİSAR,3
+Google VR,VR Eyewear,2000,3,September,Monday,96,621.00,576.00,18,KOCAELİ,41
+Mac Book Pro,Laptop,2002,3,October,Thursday,44,868.00,812.00,34,ERZURUM,25
+Lenovo Adapter,Adapter,2005,2,July,Sunday,49,902.00,874.00,70,ESKİŞEHİR,26
+Snopy Speaker,Speaker,2007,1,March,Wednesday,57,436.00,405.00,71,SİİRT,56
+Monster Joystick,Joystick,2002,2,April,Thursday,17,775.00,723.00,32,AYDIN,9
+Sony Playstation,Playstation,2018,3,August,Saturday,28,593.00,505.00,7,DİYARBAKIR,21
+Razer Blackwidow Ultimate 2014,Keyboard,2015,1,January,Saturday,79,822.00,729.00,54,RİZE,53
+LG Ultra HD Television,Television,2007,1,February,Sunday,58,885.00,826.00,63,ADANA,1
+Google VR,VR Eyewear,2005,3,August,Wednesday,97,111.00,18.00,26,ÇANAKKALE,17
+Razer Blackwidow Ultimate 2014,Keyboard,2006,1,March,Wednesday,57,864.00,768.00,55,BOLU,14
+Lenovo Adapter,Adapter,2012,2,July,Wednesday,63,554.00,491.00,69,ÇORUM,19
+Monster Joystick,Joystick,2007,3,September,Saturday,10,449.00,444.00,58,ELAZIĞ,23
+Monster Joystick,Joystick,2012,3,October,Tuesday,59,954.00,921.00,78,VAN,65
+Monster Joystick,Joystick,2002,4,December,Monday,76,452.00,391.00,36,ZONGULDAK,67
+Google VR,VR Eyewear,2013,1,March,Sunday,33,1005.00,935.00,8,SİİRT,56
+Google VR,VR Eyewear,2016,2,June,Friday,82,803.00,772.00,20,ŞANLIURFA,63
+Xiaomi Power Bank,Power Bank,2018,2,May,Tuesday,39,1029.00,959.00,34,BAYBURT,69
+Xiaomi Power Bank,Power Bank,2009,3,November,Friday,14,277.00,233.00,81,TUNCELİ,62
+Xiaomi Power Bank,Power Bank,2016,2,April,Saturday,90,125.00,31.00,10,BATMAN,72
+Canon PM,Photograph Machine,2016,2,June,Sunday,57,269.00,258.00,26,AYDIN,9
+Logitech,Mouse,2011,1,January,Friday,73,175.00,174.00,64,ÇORUM,19
+Xiaomi Power Bank,Power Bank,2007,2,July,Friday,34,639.00,595.00,34,KARABüK,78
+Lenovo Adapter,Adapter,2002,2,April,Saturday,100,167.00,93.00,17,ELAZIĞ,23
+Sony Playstation,Playstation,2015,1,February,Wednesday,79,307.00,283.00,62,ANTALYA,7
+LG Ultra HD Television,Television,2008,4,December,Tuesday,82,255.00,169.00,62,İSTANBUL,34
+Lenovo Adapter,Adapter,2013,3,November,Wednesday,77,832.00,811.00,47,AYDIN,9
+LG Ultra HD Television,Television,2013,1,February,Thursday,3,976.00,909.00,57,SAMSUN,55
+Samsung Tablet,Tablet,2004,1,January,Thursday,42,387.00,350.00,66,ANKARA,6
+Samsung Tablet,Tablet,2000,2,July,Tuesday,93,820.00,748.00,73,DÜZCE,81
+LG Ultra HD Television,Television,2016,3,August,Saturday,29,887.00,792.00,22,MARDİN,47
+Samsung Tablet,Tablet,2002,1,January,Monday,3,338.00,323.00,76,ŞIRNAK,73
+Snopy Speaker,Speaker,2002,2,May,Friday,47,175.00,105.00,14,DENİZLİ,20
+Monster Joystick,Joystick,2002,2,July,Friday,37,236.00,198.00,38,BİNGÖL,12
+Logitech,Mouse,2001,1,February,Tuesday,48,488.00,452.00,55,ANKARA,6
+Monster Joystick,Joystick,2009,2,April,Friday,65,934.00,861.00,3,GAZİANTEP,27
+Lenovo Adapter,Adapter,2015,2,May,Saturday,23,948.00,851.00,70,GİRESUN,28
+Samsung External  HD,External HD,2000,2,April,Friday,99,514.00,514.00,29,IĞDIR,76
+Apple Health Watch,Health Watch,2006,1,January,Tuesday,76,892.00,806.00,7,BOLU,14
+Mac Book Pro,Laptop,2017,3,August,Thursday,39,945.00,848.00,75,BOLU,14
+Mac Book Pro,Laptop,2002,4,December,Friday,44,904.00,898.00,34,AFYONKARAHİSAR,3
+Sony Playstation,Playstation,2003,3,November,Thursday,38,491.00,406.00,38,KASTAMONU,37
+Samsung Tablet,Tablet,2008,2,June,Tuesday,30,773.00,712.00,38,BURDUR,15
+Sony Playstation,Playstation,2009,3,October,Wednesday,23,765.00,712.00,29,SİNOP,57
+Canon PM,Photograph Machine,2001,2,July,Monday,65,933.00,856.00,53,ELAZIĞ,23
+Logitech,Mouse,2008,2,May,Tuesday,36,245.00,154.00,78,ARDAHAN,75
+Logitech,Mouse,2008,1,March,Monday,91,441.00,433.00,10,ARDAHAN,75
+Lenovo Adapter,Adapter,2016,1,February,Wednesday,24,588.00,496.00,29,ESKİŞEHİR,26
+Monster Joystick,Joystick,2002,3,September,Tuesday,68,356.00,335.00,35,TEKİRDAĞ,59
+Sony Eyewear,Ear wear,2011,1,January,Sunday,68,437.00,338.00,34,BİTLİS,13
+Samsung External  HD,External HD,2010,1,February,Sunday,61,762.00,686.00,6,OSMANİYE,80
+Snopy Speaker,Speaker,2015,2,July,Sunday,49,492.00,450.00,53,UŞAK,64
+IPhone X,Smart Phone,2009,2,June,Saturday,54,855.00,793.00,55,IĞDIR,76
+IPhone X,Smart Phone,2014,2,July,Friday,93,852.00,778.00,32,KARAMAN,70
+Sony Eyewear,Ear wear,2015,3,October,Friday,97,1055.00,988.00,7,ERZİNCAN,24
+Mac Book Pro,Laptop,2007,3,September,Monday,8,839.00,780.00,5,GİRESUN,28
+Xiaomi Power Bank,Power Bank,2015,3,August,Thursday,14,718.00,620.00,75,ÇANAKKALE,17
+Monster Joystick,Joystick,2014,2,May,Saturday,64,124.00,52.00,45,ORDU,52
+LG Ultra HD Television,Television,2010,3,September,Friday,10,951.00,879.00,19,NİĞDE,51
+Google VR,VR Eyewear,2017,3,October,Sunday,93,353.00,262.00,20,MUĞLA,48
+Sony Eyewear,Ear wear,2007,1,February,Sunday,3,426.00,339.00,18,SİVAS,58
+IPhone X,Smart Phone,2014,1,February,Monday,36,310.00,234.00,79,ERZİNCAN,24
+Mac Book Pro,Laptop,2018,2,June,Tuesday,30,926.00,837.00,58,MERSİN,33
+Google VR,VR Eyewear,2013,2,May,Friday,84,469.00,446.00,16,ŞANLIURFA,63
+Google VR,VR Eyewear,2016,1,January,Tuesday,56,1016.00,984.00,10,ÇANKIRI,18
+Sony Eyewear,Ear wear,2001,1,February,Monday,33,942.00,884.00,5,ÇANAKKALE,17
+LG Ultra HD Television,Television,2016,2,July,Thursday,1,314.00,275.00,24,TRABZON,61
+Mac Book Pro,Laptop,2007,3,October,Monday,4,566.00,565.00,6,ERZURUM,25
+Google VR,VR Eyewear,2007,3,September,Friday,60,317.00,218.00,60,SAKARYA,54
+Apple Health Watch,Health Watch,2011,3,November,Saturday,52,112.00,100.00,5,ÇANAKKALE,17
+Logitech,Mouse,2000,2,July,Thursday,38,771.00,732.00,26,UŞAK,64
+Mac Book Pro,Laptop,2017,3,November,Sunday,4,765.00,707.00,56,DÜZCE,81
+Samsung External  HD,External HD,2002,2,April,Tuesday,81,619.00,565.00,41,KÜTAHYA,43
+Lenovo Adapter,Adapter,2000,1,March,Wednesday,56,718.00,667.00,22,NİĞDE,51
+Xiaomi Power Bank,Power Bank,2007,2,July,Sunday,73,785.00,749.00,21,MERSİN,33
+Razer Blackwidow Ultimate 2014,Keyboard,2002,3,August,Friday,33,1003.00,974.00,38,HAKKARİ,30
+Sony Playstation,Playstation,2018,2,July,Sunday,38,271.00,235.00,41,ERZİNCAN,24
+Samsung Tablet,Tablet,2012,2,April,Wednesday,84,328.00,273.00,45,ADANA,1
+Sony Playstation,Playstation,2018,3,August,Tuesday,65,992.00,990.00,78,OSMANİYE,80
+Lenovo Adapter,Adapter,2012,3,October,Tuesday,22,626.00,592.00,73,NEVŞEHİR,50
+Xiaomi Power Bank,Power Bank,2009,2,May,Wednesday,53,1043.00,964.00,55,BARTIN,74
+Mac Book Pro,Laptop,2003,3,October,Thursday,28,738.00,660.00,44,KIRKLARELİ,39
+IPhone X,Smart Phone,2004,2,May,Thursday,89,185.00,171.00,64,RİZE,53
+IPhone X,Smart Phone,2015,3,September,Wednesday,1,810.00,792.00,26,KIRŞEHİR,40
+Razer Blackwidow Ultimate 2014,Keyboard,2015,2,June,Saturday,18,790.00,777.00,16,TOKAT,60
+Sony Playstation,Playstation,2013,4,December,Saturday,49,179.00,153.00,61,KARABüK,78
+Razer Blackwidow Ultimate 2014,Keyboard,2003,1,March,Saturday,45,891.00,803.00,20,MUŞ,49
+Xiaomi Power Bank,Power Bank,2012,1,February,Friday,50,1054.00,998.00,73,SİNOP,57
+Lenovo Adapter,Adapter,2018,1,February,Wednesday,53,339.00,303.00,18,İZMİR,35
+Apple Health Watch,Health Watch,2012,1,January,Friday,91,958.00,955.00,60,TRABZON,61
+Mac Book Pro,Laptop,2011,2,July,Tuesday,97,983.00,897.00,63,SAKARYA,54
+Apple Health Watch,Health Watch,2001,1,February,Wednesday,39,547.00,476.00,30,VAN,65
+Canon PM,Photograph Machine,2006,2,April,Friday,99,455.00,402.00,54,NEVŞEHİR,50
+Apple Health Watch,Health Watch,2017,1,March,Friday,75,419.00,395.00,5,ŞANLIURFA,63
+Canon PM,Photograph Machine,2009,3,November,Saturday,14,111.00,81.00,7,BİTLİS,13
+Samsung External  HD,External HD,2008,4,December,Wednesday,93,382.00,381.00,12,KARABüK,78
+Xiaomi Power Bank,Power Bank,2015,3,November,Monday,96,595.00,562.00,61,KARS,36
+Apple Health Watch,Health Watch,2002,3,September,Monday,85,601.00,519.00,60,GAZİANTEP,27
+Sony Eyewear,Ear wear,2017,2,July,Thursday,19,85.00,55.00,1,AYDIN,9
+Google VR,VR Eyewear,2010,1,February,Wednesday,18,554.00,483.00,53,UŞAK,64
+Lenovo Adapter,Adapter,2008,3,October,Friday,49,556.00,492.00,7,VAN,65
+Apple Health Watch,Health Watch,2008,3,September,Wednesday,37,137.00,48.00,1,GAZİANTEP,27
+Mac Book Pro,Laptop,2016,4,December,Tuesday,28,546.00,447.00,68,NİĞDE,51
+Apple Health Watch,Health Watch,2002,4,December,Saturday,58,979.00,901.00,56,ŞIRNAK,73
+Sony Eyewear,Ear wear,2004,4,December,Thursday,11,806.00,804.00,63,KAYSERİ,38
+Snopy Speaker,Speaker,2005,2,April,Thursday,70,49.00,41.00,20,NEVŞEHİR,50
+Razer Blackwidow Ultimate 2014,Keyboard,2000,2,July,Sunday,37,812.00,722.00,65,GAZİANTEP,27
+Xiaomi Power Bank,Power Bank,2013,1,March,Wednesday,98,890.00,816.00,39,ZONGULDAK,67
+Apple Health Watch,Health Watch,2003,2,May,Sunday,46,587.00,572.00,69,BURDUR,15
+IPhone X,Smart Phone,2018,2,July,Tuesday,21,42.00,38.00,66,ANKARA,6
+Xiaomi Power Bank,Power Bank,2016,3,September,Tuesday,22,677.00,591.00,8,YOZGAT,66
+LG Ultra HD Television,Television,2006,2,June,Friday,60,374.00,362.00,20,DİYARBAKIR,21
+Logitech,Mouse,2011,3,August,Thursday,56,876.00,833.00,69,ZONGULDAK,67
+Sony Eyewear,Ear wear,2013,3,October,Tuesday,17,125.00,116.00,59,KIRIKKALE,71
+LG Ultra HD Television,Television,2017,3,October,Monday,89,183.00,149.00,20,RİZE,53
+LG Ultra HD Television,Television,2012,1,March,Saturday,4,202.00,129.00,10,KARABüK,78
+Sony Playstation,Playstation,2009,2,June,Sunday,61,431.00,363.00,44,NİĞDE,51
+Sony Eyewear,Ear wear,2017,4,December,Monday,42,132.00,75.00,30,AMASYA,5
+Google VR,VR Eyewear,2011,2,April,Friday,10,264.00,263.00,61,KIRIKKALE,71
+Xiaomi Power Bank,Power Bank,2005,2,June,Tuesday,18,841.00,789.00,80,UŞAK,64
+Google VR,VR Eyewear,2014,3,September,Monday,87,244.00,218.00,64,ÇANKIRI,18
+Canon PM,Photograph Machine,2006,1,March,Tuesday,40,680.00,655.00,74,KİLİS,79
+Canon PM,Photograph Machine,2014,2,June,Tuesday,81,161.00,146.00,56,KİLİS,79
+Lenovo Adapter,Adapter,2011,4,December,Saturday,33,1031.00,937.00,41,ŞANLIURFA,63
+IPhone X,Smart Phone,2016,3,November,Monday,32,173.00,111.00,22,OSMANİYE,80
+Xiaomi Power Bank,Power Bank,2005,2,April,Saturday,55,985.00,945.00,45,BİNGÖL,12
+LG Ultra HD Television,Television,2008,3,October,Monday,13,733.00,704.00,8,UŞAK,64
+Snopy Speaker,Speaker,2011,2,May,Tuesday,53,550.00,494.00,34,UŞAK,64
+Sony Playstation,Playstation,2006,2,July,Saturday,70,159.00,159.00,75,SİİRT,56
+Lenovo Adapter,Adapter,2010,1,February,Tuesday,72,543.00,520.00,73,KIRKLARELİ,39
+Snopy Speaker,Speaker,2005,3,October,Saturday,64,931.00,879.00,40,BURDUR,15
+IPhone X,Smart Phone,2012,2,July,Thursday,45,162.00,69.00,28,YALOVA,77
+Lenovo Adapter,Adapter,2014,3,September,Friday,74,533.00,505.00,25,KOCAELİ,41
+Logitech,Mouse,2010,3,November,Friday,72,200.00,144.00,60,VAN,65
+Mac Book Pro,Laptop,2017,2,July,Tuesday,39,271.00,249.00,36,ÇORUM,19
+Lenovo Adapter,Adapter,2012,3,October,Monday,96,377.00,369.00,14,KAYSERİ,38
+LG Ultra HD Television,Television,2003,1,March,Tuesday,38,655.00,581.00,50,HATAY,31
+Razer Blackwidow Ultimate 2014,Keyboard,2011,3,November,Sunday,78,726.00,726.00,65,KARS,36
+Sony Playstation,Playstation,2016,1,February,Thursday,24,326.00,271.00,29,ANTALYA,7
+Razer Blackwidow Ultimate 2014,Keyboard,2010,1,January,Tuesday,60,595.00,521.00,50,ADIYAMAN,2
+Samsung Tablet,Tablet,2003,2,June,Sunday,25,136.00,89.00,71,DÜZCE,81
+Sony Playstation,Playstation,2009,3,September,Saturday,3,158.00,139.00,42,HATAY,31
+Mac Book Pro,Laptop,2000,4,December,Monday,11,699.00,635.00,12,ARTVİN,8
+Logitech,Mouse,2011,3,November,Tuesday,23,1018.00,943.00,32,UŞAK,64
+Snopy Speaker,Speaker,2016,3,November,Tuesday,97,793.00,762.00,43,SAMSUN,55
+Google VR,VR Eyewear,2007,3,October,Saturday,25,109.00,15.00,76,KOCAELİ,41
+Canon PM,Photograph Machine,2005,3,September,Friday,50,483.00,431.00,66,ADIYAMAN,2
+Snopy Speaker,Speaker,2005,2,May,Monday,49,834.00,771.00,6,ARDAHAN,75
+Sony Playstation,Playstation,2006,1,February,Monday,72,338.00,305.00,9,BİTLİS,13
+LG Ultra HD Television,Television,2002,3,October,Sunday,24,617.00,544.00,67,ARDAHAN,75
+IPhone X,Smart Phone,2016,3,October,Monday,78,586.00,584.00,8,KONYA,42
+Snopy Speaker,Speaker,2001,2,April,Friday,25,736.00,687.00,63,ELAZIĞ,23
+Snopy Speaker,Speaker,2008,3,September,Thursday,29,350.00,270.00,40,ANTALYA,7
+Lenovo Adapter,Adapter,2001,2,May,Sunday,46,266.00,211.00,2,UŞAK,64
+Samsung Tablet,Tablet,2003,1,January,Sunday,3,232.00,194.00,46,AĞRI,4
+Google VR,VR Eyewear,2011,2,May,Tuesday,50,29.00,13.00,24,KAHRAMANMARAŞ,46
+IPhone X,Smart Phone,2018,1,January,Tuesday,53,733.00,644.00,74,BİTLİS,13
+Snopy Speaker,Speaker,2006,2,June,Saturday,50,629.00,622.00,72,KIRŞEHİR,40
+LG Ultra HD Television,Television,2017,3,August,Friday,26,137.00,102.00,24,KIRŞEHİR,40
+Mac Book Pro,Laptop,2008,2,June,Monday,69,317.00,302.00,14,ANTALYA,7
+LG Ultra HD Television,Television,2005,3,August,Tuesday,75,879.00,787.00,80,ORDU,52
+Apple Health Watch,Health Watch,2003,1,January,Sunday,85,603.00,554.00,18,NEVŞEHİR,50
+Snopy Speaker,Speaker,2001,2,June,Saturday,18,704.00,636.00,8,ESKİŞEHİR,26
+Razer Blackwidow Ultimate 2014,Keyboard,2017,2,April,Friday,36,562.00,556.00,79,EDİRNE,22
+Logitech,Mouse,2011,2,May,Monday,79,499.00,449.00,43,ERZİNCAN,24
+Snopy Speaker,Speaker,2000,3,October,Saturday,64,939.00,867.00,17,SİNOP,57
+Monster Joystick,Joystick,2014,2,May,Wednesday,27,260.00,186.00,33,TUNCELİ,62
+Apple Health Watch,Health Watch,2012,4,December,Wednesday,69,411.00,336.00,37,ÇANKIRI,18
+Sony Eyewear,Ear wear,2014,3,November,Friday,41,487.00,463.00,27,SAKARYA,54
+Mac Book Pro,Laptop,2012,1,March,Thursday,10,940.00,859.00,56,AMASYA,5
+Xiaomi Power Bank,Power Bank,2007,3,September,Wednesday,84,638.00,542.00,60,İZMİR,35
+Canon PM,Photograph Machine,2010,3,October,Tuesday,58,679.00,669.00,27,ÇORUM,19
+Apple Health Watch,Health Watch,2017,3,November,Tuesday,40,124.00,53.00,13,AĞRI,4
+Google VR,VR Eyewear,2010,2,June,Tuesday,85,792.00,775.00,11,HAKKARİ,30
+Samsung Tablet,Tablet,2014,2,July,Wednesday,87,347.00,282.00,60,NEVŞEHİR,50
+IPhone X,Smart Phone,2006,3,September,Monday,54,741.00,738.00,5,SAKARYA,54
+LG Ultra HD Television,Television,2016,1,January,Friday,57,1088.00,996.00,5,BAYBURT,69
+Canon PM,Photograph Machine,2016,3,August,Saturday,23,1063.00,972.00,77,ARTVİN,8
+Sony Eyewear,Ear wear,2007,1,March,Sunday,6,955.00,906.00,65,KOCAELİ,41
+Logitech,Mouse,2005,3,September,Friday,78,377.00,363.00,51,MANİSA,45
+Razer Blackwidow Ultimate 2014,Keyboard,2000,2,April,Tuesday,95,215.00,205.00,16,DENİZLİ,20
+Mac Book Pro,Laptop,2000,1,January,Sunday,31,460.00,460.00,13,KÜTAHYA,43
+LG Ultra HD Television,Television,2009,1,January,Tuesday,84,275.00,177.00,4,MERSİN,33
+IPhone X,Smart Phone,2004,4,December,Friday,90,1011.00,980.00,27,ŞANLIURFA,63
+Monster Joystick,Joystick,2011,2,April,Saturday,60,1007.00,969.00,33,ÇANAKKALE,17
+Razer Blackwidow Ultimate 2014,Keyboard,2015,2,April,Monday,4,776.00,751.00,26,BAYBURT,69
+Canon PM,Photograph Machine,2017,3,August,Wednesday,82,486.00,449.00,64,GÜMÜŞHANE,29
+Monster Joystick,Joystick,2017,1,February,Tuesday,27,840.00,750.00,19,ARTVİN,8
+LG Ultra HD Television,Television,2008,2,April,Sunday,62,691.00,619.00,24,AĞRI,4
+Monster Joystick,Joystick,2004,1,January,Saturday,69,503.00,433.00,3,DENİZLİ,20
+Samsung Tablet,Tablet,2005,3,September,Thursday,55,603.00,515.00,34,IĞDIR,76
+Monster Joystick,Joystick,2010,2,April,Thursday,94,85.00,73.00,15,KASTAMONU,37
+Mac Book Pro,Laptop,2013,3,October,Sunday,74,850.00,831.00,10,ÇANKIRI,18
+Sony Playstation,Playstation,2008,3,August,Saturday,31,83.00,62.00,50,ERZURUM,25
+Google VR,VR Eyewear,2005,4,December,Friday,90,87.00,13.00,9,MUŞ,49
+Razer Blackwidow Ultimate 2014,Keyboard,2016,2,May,Sunday,15,986.00,977.00,52,KIRŞEHİR,40
+Razer Blackwidow Ultimate 2014,Keyboard,2000,1,March,Sunday,49,666.00,613.00,70,ÇORUM,19
+Xiaomi Power Bank,Power Bank,2005,2,June,Saturday,51,462.00,397.00,20,GÜMÜŞHANE,29
+LG Ultra HD Television,Television,2017,4,December,Friday,87,173.00,149.00,52,DÜZCE,81
+Logitech,Mouse,2006,3,August,Monday,94,607.00,587.00,68,SİVAS,58
+Snopy Speaker,Speaker,2010,1,January,Sunday,96,1019.00,1000.00,62,ŞIRNAK,73
+Apple Health Watch,Health Watch,2013,2,June,Monday,87,824.00,789.00,69,MERSİN,33
+Lenovo Adapter,Adapter,2015,4,December,Monday,66,178.00,93.00,58,AFYONKARAHİSAR,3
+Monster Joystick,Joystick,2017,3,November,Saturday,78,446.00,431.00,51,IĞDIR,76
+Apple Health Watch,Health Watch,2002,3,September,Wednesday,20,593.00,505.00,5,ŞIRNAK,73
+Mac Book Pro,Laptop,2017,2,July,Thursday,28,690.00,671.00,48,KASTAMONU,37
+Samsung Tablet,Tablet,2011,1,January,Sunday,33,252.00,169.00,20,ARDAHAN,75
+Samsung External  HD,External HD,2013,2,July,Friday,67,964.00,948.00,51,KARS,36
+Monster Joystick,Joystick,2004,1,January,Friday,70,320.00,297.00,67,SİVAS,58
+Monster Joystick,Joystick,2009,3,November,Saturday,91,425.00,381.00,28,SİVAS,58
+Samsung External  HD,External HD,2007,4,December,Wednesday,11,868.00,817.00,49,AYDIN,9
+Logitech,Mouse,2012,3,November,Wednesday,78,841.00,781.00,44,KÜTAHYA,43
+Lenovo Adapter,Adapter,2015,4,December,Sunday,32,979.00,976.00,42,SİVAS,58
+Apple Health Watch,Health Watch,2002,1,January,Wednesday,82,961.00,882.00,7,RİZE,53
+Google VR,VR Eyewear,2009,1,March,Sunday,42,704.00,665.00,19,ELAZIĞ,23
+Samsung Tablet,Tablet,2010,2,May,Sunday,71,537.00,513.00,79,BİNGÖL,12
+Xiaomi Power Bank,Power Bank,2014,2,July,Sunday,12,287.00,196.00,69,TUNCELİ,62
+Monster Joystick,Joystick,2012,3,November,Saturday,53,355.00,344.00,62,AFYONKARAHİSAR,3
+Sony Eyewear,Ear wear,2012,2,June,Thursday,47,666.00,648.00,46,SİNOP,57
+Logitech,Mouse,2001,2,June,Tuesday,99,506.00,429.00,77,VAN,65
+Apple Health Watch,Health Watch,2012,3,October,Saturday,90,420.00,399.00,21,ESKİŞEHİR,26
+Logitech,Mouse,2014,3,October,Friday,54,690.00,595.00,45,MARDİN,47
+LG Ultra HD Television,Television,2006,3,August,Tuesday,3,217.00,170.00,54,TOKAT,60
+Canon PM,Photograph Machine,2006,2,April,Thursday,64,387.00,302.00,31,ŞANLIURFA,63
+Sony Eyewear,Ear wear,2014,2,June,Monday,51,236.00,198.00,3,KÜTAHYA,43
+LG Ultra HD Television,Television,2003,3,October,Thursday,88,826.00,818.00,12,BATMAN,72
+Samsung External  HD,External HD,2009,1,February,Tuesday,78,592.00,527.00,79,ESKİŞEHİR,26
+Monster Joystick,Joystick,2012,3,September,Saturday,64,238.00,192.00,27,UŞAK,64
+Lenovo Adapter,Adapter,2017,2,June,Monday,25,244.00,244.00,76,MANİSA,45
+LG Ultra HD Television,Television,2007,4,December,Tuesday,43,735.00,721.00,32,DENİZLİ,20
+Razer Blackwidow Ultimate 2014,Keyboard,2009,3,September,Wednesday,39,894.00,824.00,3,SİNOP,57
+LG Ultra HD Television,Television,2013,2,May,Sunday,48,112.00,57.00,3,ÇANAKKALE,17
+Lenovo Adapter,Adapter,2013,2,July,Monday,78,602.00,550.00,24,VAN,65
+Google VR,VR Eyewear,2009,1,January,Tuesday,58,298.00,267.00,40,BİNGÖL,12
+Canon PM,Photograph Machine,2010,2,June,Saturday,30,691.00,625.00,36,UŞAK,64
+Samsung Tablet,Tablet,2003,2,May,Thursday,26,92.00,87.00,48,UŞAK,64
+Logitech,Mouse,2001,1,January,Monday,14,765.00,742.00,32,DÜZCE,81
+Canon PM,Photograph Machine,2002,3,November,Thursday,55,714.00,621.00,61,OSMANİYE,80
+Lenovo Adapter,Adapter,2009,1,January,Thursday,84,754.00,687.00,74,İSTANBUL,34
+Xiaomi Power Bank,Power Bank,2013,3,September,Wednesday,20,725.00,692.00,32,KIRIKKALE,71
+Sony Eyewear,Ear wear,2006,4,December,Saturday,83,412.00,369.00,11,MALATYA,44
+Apple Health Watch,Health Watch,2010,4,December,Monday,25,270.00,195.00,34,BAYBURT,69
+Canon PM,Photograph Machine,2009,3,August,Monday,61,52.00,13.00,66,KIRŞEHİR,40
+Lenovo Adapter,Adapter,2003,3,October,Sunday,83,668.00,609.00,24,TOKAT,60
+Xiaomi Power Bank,Power Bank,2007,3,August,Sunday,94,831.00,748.00,29,KARAMAN,70
+Snopy Speaker,Speaker,2008,3,November,Sunday,79,233.00,168.00,68,GAZİANTEP,27
+Snopy Speaker,Speaker,2004,1,January,Thursday,48,976.00,888.00,2,ERZİNCAN,24
+Monster Joystick,Joystick,2018,2,June,Monday,22,985.00,969.00,45,ANKARA,6
+Samsung Tablet,Tablet,2013,3,November,Monday,48,705.00,637.00,4,SAKARYA,54
+Sony Playstation,Playstation,2009,3,September,Tuesday,19,531.00,447.00,64,KIRIKKALE,71
+Lenovo Adapter,Adapter,2012,2,July,Wednesday,16,725.00,704.00,9,KİLİS,79
+Samsung External  HD,External HD,2018,3,November,Thursday,74,901.00,858.00,7,MUĞLA,48
+Lenovo Adapter,Adapter,2008,3,August,Saturday,83,371.00,322.00,29,BAYBURT,69
+Samsung External  HD,External HD,2016,3,November,Wednesday,68,1042.00,953.00,30,KIRŞEHİR,40
